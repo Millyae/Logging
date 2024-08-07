@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import SMTPHandler
 
-DEBUG = True  # Или False в зависимости от текущего состояния
+DEBUG = True 
 
 LOGGING = {
     'version': 1,
